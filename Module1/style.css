@@ -1,0 +1,21 @@
+body{
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 100px;
+}
+
+.container{
+	text-align: center;
+	width: 90%;
+}
+
+p{
+	width: 30%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+span{
+	color: red;
+}
