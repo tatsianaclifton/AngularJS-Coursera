@@ -1,0 +1,15 @@
+body{
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 50px;
+}
+
+li{
+	list-style: none;
+	padding-bottom: 10px;
+}
+
+p{
+	color: green;
+}
